@@ -86,9 +86,13 @@ The objective is to convert raw sales data into an interactive, executive-ready 
 ## 🛠 Technologies & Tools
 
 📊 Microsoft Excel
+
 📂 Power Query
+
 📈 Pivot Tables & Pivot Charts
+
 🧮 Advanced Excel Functions
+
 📊 Data Visualization & KPI Reporting
 
 ---
