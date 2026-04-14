@@ -59,7 +59,7 @@ This project presents a comprehensive analysis of sales performance across South
 
 The objective is to convert raw sales data into an interactive, executive-ready dashboard that supports strategic decision-making.
 
-🔗 **View Project Dashboard:** [South America Sales Analysis Dashboard](https://github.com/DIMEJI-HOT/Excel-Portfolio/tree/main/south-america-sales-analysis)
+🔗 **View Project Dashboard:** [South America Sales Analysis Dashboard](https://github.com/DIMEJI-HOT/Excel-Project-Portfolio/tree/main/south-america-sales-analysis)
 
 ---
 
